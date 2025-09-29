@@ -23,7 +23,7 @@ public class PrimeNumber {
 
     public static void main(String[] args){
         
-        int n = 10;
+        int n = 4;
 
         System.out.println(primeNumber(n));
     }

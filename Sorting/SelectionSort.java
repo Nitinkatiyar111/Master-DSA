@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 public class SelectionSort {
 
+
+    // select minimum and put it at its correct place
+
     public static int[] selectionSort(int[] a){
 
         for (int i = 0; i < a.length - 1; i++){

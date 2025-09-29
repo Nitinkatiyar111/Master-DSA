@@ -8,6 +8,8 @@ public class PalindromCheck {
     }
 
      public static boolean isPanlindromeCheck(String str,int left,int right){
+        
+               // base case
 
             if (left >= right)
             return true;

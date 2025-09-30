@@ -17,7 +17,6 @@ public class SelectionSort {
             if (a[j] < a[minIndex]){
                 minIndex = j;
             }
-
         }
         if (minIndex != i){
             int temp = a[i];

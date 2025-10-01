@@ -4,6 +4,8 @@ public class QuickSort {
 
     public static int partition(int[] a,int low,int high){
       
+        // selected first element as pivot
+
         int pivot  = a[low];
 
         int i = low;

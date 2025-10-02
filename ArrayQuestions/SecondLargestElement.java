@@ -13,7 +13,7 @@ public class SecondLargestElement {
                 secondLarget = largest;
                 largest = nums[i];
             }
-            else if ( nums[i] > secondLarget && nums[i] < largest){
+            else if ( nums[i] > secondLarget && nums[i] != largest){
                 secondLarget = nums[i];
             }
         }
@@ -28,6 +28,6 @@ public class SecondLargestElement {
 
         int result = seconLargestElement(nums,n);
 
-        System.out.println(result)
+        System.out.println(result);
     }
 }

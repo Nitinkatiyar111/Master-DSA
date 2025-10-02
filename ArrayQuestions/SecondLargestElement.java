@@ -28,6 +28,6 @@ public class SecondLargestElement {
 
         int result = seconLargestElement(nums,n);
 
-        System.out.println(result);
+        System.out.println(result)
     }
 }

@@ -1,7 +1,5 @@
 package ArrayQuestions;
 
-import java.util.Arrays;
-
 public class NextPermutation {
 
     public static void  nextPermutation(int[] nums){

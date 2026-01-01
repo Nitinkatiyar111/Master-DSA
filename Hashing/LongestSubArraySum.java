@@ -9,7 +9,7 @@ public class LongestSubArraySum {
 
         int n = a.length;
 
-        Map<Integer,Integer> hmap = new HashMap<>();
+        Map<Integer,Integer> hmap = new HashMap<>() ;
         int sum = 0;
         int maxLen = 0;
 

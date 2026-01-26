@@ -2,9 +2,9 @@ package CodeForces;
 
 import java.util.Scanner;
 
-public class Watermalon{
+public class Watermelon {
 
-    public static String solve(int w){
+        public static String solve(int w){
 
         if (w % 2 == 0 && w > 2 ){
             return "YES";

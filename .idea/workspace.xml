@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b784cb-4744-4241-a1f9-8747c9397040" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BinarySearch/onAnswer/NthRoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/FindRotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/FindRotated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/MinInRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/MinInRotatedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/SingleNonDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/SingleNonDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/onAnswer/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/onAnswer/SquareRoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/Watermelon.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/Watermelon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="10b784cb-4744-4241-a1f9-8747c9397040" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/DSA&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/nkati/OneDrive/Desktop/e-commerce"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.SquareRoot">
     <configuration name="FindRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.FindRotated" />
